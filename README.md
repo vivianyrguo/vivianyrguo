@@ -4,4 +4,3 @@ With studies in both Computer Science and Finance, I am fascinated by both field
 
 * [Website](https://vivianyrguo.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/vivianvg/)
-* [also GitHub](https://github.com/vivianvg)
